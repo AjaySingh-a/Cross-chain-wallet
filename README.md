@@ -21,6 +21,9 @@ A minimal, production-ready Web3 dashboard for viewing wallet activity across mu
 - **Caching**: 2-minute cache to avoid redundant RPC calls
 - **LocalStorage Persistence**: Remembers selected chain preference
 
+## screenshot
+- I have added a screenshot folder also where the screenshot of the project working is present.
+
 ## 📋 Prerequisites
 
 - Node.js 18+ and npm
